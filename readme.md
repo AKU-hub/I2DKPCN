@@ -13,3 +13,4 @@ have extensively tested I2DKPCN on multiple data sets for three challenging task
 texture classification and face recognition. It can be seen from the results that I2DKPCN performs competitively or even
 better compared with other networks in all tests. Because the filters are learned by I2DKPCA, which combined the 2DPCA
 with kernel method and incremental learning, the non-linear problem was solved and the computational time was reduced.*  
+
