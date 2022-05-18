@@ -3,7 +3,8 @@ This is the official implementation of the paper ["I2DKPCN: an unsupervised deep
 
 Code is under preparation, please be patient.
 
-> **Abstract:** *In this paper, we proposed an incremental two-dimensional kernel PCA-based convolutional network (I2DKPCN) which is a novel unsupervised deep learning network. In our architecture, I2DKPCN consists of several feature extraction stages and
+> **Abstract:** *In this paper, we proposed an incremental two-dimensional kernel PCA-based convolutional network (I2DKPCN) which 
+is a novel unsupervised deep learning network. In our architecture, I2DKPCN consists of several feature extraction stages and
 one output stage, and each feature extraction stage includes a convolutional layer, a feature pooling layer and a feature fusion
 layer. In the output stage, binary hashing and blockwise histograms are exploited for the generation of the final features. In
 particular, the filters of the convolutional layer are learned by using incremental two-dimensional kernel principal component
