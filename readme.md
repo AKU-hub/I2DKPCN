@@ -16,4 +16,4 @@ better compared with other networks in all tests. Because the filters are learne
 with kernel method and incremental learning, the non-linear problem was solved and the computational time was reduced.*  
 
 ## Network Architecture
-![12ep results](https://github.com/AKU-hub/I2DKPCN/blob/master/%20figs/framework.jpg "optional title")
+![framework](https://github.com/AKU-hub/I2DKPCN/blob/master/%20figs/framework.png=100x100)
