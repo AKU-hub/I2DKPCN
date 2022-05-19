@@ -17,4 +17,5 @@ with kernel method and incremental learning, the non-linear problem was solved a
 
 ## Network Architecture
 ![framework](https://github.com/AKU-hub/I2DKPCN/blob/master/%20figs/framework.png)
-<img src="https://github.com/AKU-hub/I2DKPCN/blob/master/%20figs/framework.png" width="200" />
+## Training and Inference
+![framework](https://github.com/AKU-hub/I2DKPCN/blob/master/%20figs/train.png)
