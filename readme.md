@@ -16,7 +16,6 @@ better compared with other networks in all tests. Because the filters are learne
 with kernel method and incremental learning, the non-linear problem was solved and the computational time was reduced.*  
 
 ## Network Architecture
-![framework](./figs/framework.png)
-
+![framework](./%20figs/framework.png)
 ## Training and Inference
-![Training](./figs/train.png)
+![Training](./%20figs/train.png)
