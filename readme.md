@@ -17,5 +17,6 @@ with kernel method and incremental learning, the non-linear problem was solved a
 
 ## Network Architecture
 ![framework](./figs/framework.png)
+
 ## Training and Inference
 ![Training](./figs/train.png)
